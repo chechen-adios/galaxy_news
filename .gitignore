@@ -1,0 +1,17 @@
+
+.DS_Store
+Thumbs.db
+db.db
+
+
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+
+docker/mysql/data/
+.docker-sync/
